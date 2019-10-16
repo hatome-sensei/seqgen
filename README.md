@@ -1,0 +1,2 @@
+# seqgen
+Generating number sequences
